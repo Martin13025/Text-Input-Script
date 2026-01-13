@@ -6,3 +6,8 @@ hover and click the cursor over the entry, and wait 10 seconds <br/>
 (the time can be changed using ```delay_before_start = 10```).
 
 Before use install ```pip install pyautogui```
+
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/69139c1a-f471-40eb-bf86-2ec93b3792e3" />
+</p>
